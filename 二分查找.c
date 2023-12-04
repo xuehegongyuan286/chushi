@@ -20,12 +20,12 @@ int main()
 		}
 		else 
 		{
-			printf("¸ÃÊý×ÖËù¶ÔÓ¦µÄÊý×éÏÂ±êÊÇ£º%d", mid);
+			printf("è¯¥æ•°å­—æ‰€å¯¹åº”çš„æ•°ç»„ä¸‹æ ‡æ˜¯ï¼š%d", mid);
 			break;
 		}
 	}
 	if (le > rig)
 	{
-		printf("ÊäÈë´íÎó\n");
+		printf("è¾“å…¥é”™è¯¯ï¼Œè¯·é‡æ–°è¾“å…¥\n");
 	}
 }
